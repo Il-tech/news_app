@@ -1,12 +1,12 @@
-## NEWS APP
+## News app
 
 News App developed with Flutter and API from [News API](https://newsapi.org/)
 
-## Getting Started
+## Getting started
 
 - [Visit my Demo video](https://drive.google.com/file/d/1FS-z8ASmsBH1y4Jr_5Uw_Ayxh1YwLFEG/view?usp=sharing)
 
-## FEATURES
+## Features
 
   Firebase Auth(using google Account).
   
