@@ -11,10 +11,15 @@ News App developed with Flutter and API from [News API](https://newsapi.org/)
   Firebase Auth(using google Account).
   
  List daily news.
+ 
  Refresh list daily news with pull to refresh style.
+ 
  Go to detail news website.
+ 
  Search news by text input or by vocal message.
+ 
  Flutter Realtime Geolocation.
+ 
  Facial Recognition.
  
  
