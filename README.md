@@ -8,7 +8,8 @@ News App developed with Flutter and API from [News API](https://newsapi.org/)
 
 ## FEATURES
 
-  Firebase Auth(using google Account)
+  Firebase Auth(using google Account).
+  
  List daily news.
  Refresh list daily news with pull to refresh style.
  Go to detail news website.
