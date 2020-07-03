@@ -1,16 +1,20 @@
-# app_recipes
+# app news
 
-A new Flutter project.
+News App developed with Flutter and API from [News API](https://newsapi.org/)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Visit my Demo video](https://drive.google.com/file/d/1FS-z8ASmsBH1y4Jr_5Uw_Ayxh1YwLFEG/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+## FEATURES
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Firebase Auth(using google Account)
+ List daily news.
+ Refresh list daily news with pull to refresh style.
+ Go to detail news website.
+ Search news by text input or by vocal message.
+ Flutter Realtime Geolocation.
+ Facial Recognition.
+ 
+ 
+ 
